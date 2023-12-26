@@ -1,1 +1,1 @@
-# Tetris
+This code defines a basic Tetris game using Java and the Swing library. The Pieces enum represents the different Tetris pieces, and the rotatePiece method is used to rotate the pieces. The game loop is implemented using a Timer, and the keyPressed method handles user input for moving and rotating the pieces. The checkLines method checks for completed lines and removes them. The game ends when a new piece cannot be placed on the board.# Tetris
